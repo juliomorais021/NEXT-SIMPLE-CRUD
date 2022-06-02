@@ -26,6 +26,11 @@
 <hr>
 <div align="center">
 <h3>Pré-Requesitos</h3>
+   
+```bash
+   
+   
+```
 
 
 </div>
