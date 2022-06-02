@@ -17,7 +17,8 @@
  <img src="https://user-images.githubusercontent.com/91555086/171663313-ee52f244-ef80-4318-8d48-12679f142cb8.PNG" alt="">
 </div>
 <div align="center">
-  <h3>FOR Mobile</h3>
+  <h3>FOR Mobile 📱</h3>
+   
  
  <img src="https://user-images.githubusercontent.com/91555086/171663408-01b5db36-185a-498c-8b3c-d3049d06cf21.PNG" alt="">
 </div>
