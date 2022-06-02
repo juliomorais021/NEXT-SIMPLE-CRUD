@@ -28,10 +28,15 @@
 <h3>Pré-Requesitos</h3>
    
 ```bash
-   #Clone este repositorio <https://github.com/slayerch1/NEXT-SIMPLE-CRUD.git>
+   # Clone este repositório 
+   $ git clone <https://github.com/slayerch1/NEXT-SIMPLE-CRUD.git>
    
+   # Acesse a pasta do projeto no terminal/cmd
+   $cd next-crud
+   
+   # Execute a aplicação
+   $ npm run dev
    
 ```
-
 
 </div>
