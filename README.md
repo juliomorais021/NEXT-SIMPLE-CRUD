@@ -24,7 +24,7 @@
 </div>
 <br>
 <hr>
-<div align="center">
+<div >
 <h3>Pré-Requesitos</h3>
    
 ```bash
