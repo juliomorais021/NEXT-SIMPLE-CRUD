@@ -27,6 +27,9 @@
 <div >
 <h3>Pré-Requesitos 📄 </h3>
    
+<hr>   
+<br>
+<h3>Como inicializar o projeto 🚀</h3>
 ```bash
    # Clone este repositório 
    $ git clone <https://github.com/slayerch1/NEXT-SIMPLE-CRUD.git>
