@@ -25,6 +25,10 @@
 <hr>
 <div >
 <h3>Pré-Requesitos 📄 </h3>
+<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+ [Git](https://git-scm.com),[Node.js](https://nodejs.org/en/).
+   
+ </p>
    
 <hr>   
 <br>
