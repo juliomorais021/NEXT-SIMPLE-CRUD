@@ -1,4 +1,4 @@
-# NEXT-SIMPLE-CRUD 🖥️
+# NEXT-SIMPLE-CRUD + FIREBASE 🖥️
 
 <p >CRUD desenvolvido em React.js, Next.js,TS e aguns frameworks de estilização como tailwind. </p>
 <br>
