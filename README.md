@@ -1,4 +1,4 @@
-# NEXT-SIMPL-CRUD
+# NEXT-SIMPL-CRUD 🖥️
 
 <p >CRUD desenvolvido em React.js, Next.js,TS e aguns frameworks de estilização como tailwind. </p>
 <br>
