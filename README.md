@@ -44,5 +44,5 @@
    $ npm run dev
    
 ```
-
 </div>
+<hr>  
