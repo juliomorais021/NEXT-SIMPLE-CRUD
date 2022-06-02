@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=M+PLUS+2&family=Poppins:wght@200&family=Red+Hat+Mono:wght@300&family=Roboto+Slab:wght@900&family=Roboto:wght@100&display=swap');
+.text{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(11, 131, 235);
+    text-align: center;
+}
