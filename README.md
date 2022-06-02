@@ -25,7 +25,7 @@
 <br>
 <hr>
 <div >
-<h3>Pré-Requesitos</h3>
+<h3>Pré-Requesitos 📄 </h3>
    
 ```bash
    # Clone este repositório 
