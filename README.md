@@ -5,9 +5,8 @@
 <hr>
 <h4  align="center">
    
- <g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji>
- Este Projeto está em construção.. 
- <g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji>
+ 🚧 Este Projeto está em construção.. 👷‍♂️  🚧
+
 </h4>
 
 <div align="center">
