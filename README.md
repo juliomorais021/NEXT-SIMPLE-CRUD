@@ -28,6 +28,7 @@
 <h3>Pré-Requesitos</h3>
    
 ```bash
+   #Clone este repositorio <https://github.com/slayerch1/NEXT-SIMPLE-CRUD.git>
    
    
 ```
