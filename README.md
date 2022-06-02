@@ -11,8 +11,8 @@
 </h4>
 
 <div align="center">
- <h3>For Desktop </h3>
- <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></g-emoji>
+ <h3>For Desktop 💻 </h3>
+
  <img src="https://user-images.githubusercontent.com/91555086/171663116-8cf33704-7840-4a74-9241-3081d9c24172.PNG" alt="">
  <img src="https://user-images.githubusercontent.com/91555086/171663313-ee52f244-ef80-4318-8d48-12679f142cb8.PNG" alt="">
 </div>
